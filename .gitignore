@@ -1,0 +1,6 @@
+script.py
+script-old.py
+*.jpg
+*.jpeg
+output
+output-old
